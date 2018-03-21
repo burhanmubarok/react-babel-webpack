@@ -1,4 +1,4 @@
-# Welcome to the modern doc!
+# Welcome to the doc!
 
 Here you can find all the description of my react-babel-webpack project.
 
