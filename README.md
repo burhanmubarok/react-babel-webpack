@@ -9,7 +9,7 @@ I also implement redux-saga to handle asynchronous httpRequest and to handle sid
 
 
 ## Stacks
-- [React](https:/ /reactjs.org/) - Component
+- [React](https://reactjs.org/) - Component
 - [Redux](https://redux.js.org/) - State Management
 - [Redux Saga](https://redux-saga.js.org/) - Asynchronous Request, Side Effect
 - [Babel](https://babeljs.io/) - ES6
